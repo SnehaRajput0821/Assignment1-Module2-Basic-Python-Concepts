@@ -12,10 +12,9 @@ Subtraction: 5
 Multiplication: 50
 Division: 2.0
 
-```markdown
 ### 👋 Task 2: Personalized Greeting
 
-```bash
+
 $ python task2_greeting.py
 Enter your first name: John
 Enter your last name: Doe
